@@ -2,7 +2,9 @@
 - 👀 I’m interested in HW, Script-Fooling, RTOS, Interactive New Media
 - 🌱 I’m currently learning (Well if I have time) rust (WIP), LVGL(TBD), Zephyer (RTOS - TBD)
 - 💞️ I’m looking to collaborate on HW <-> SW Integration, Embedded Systems and Electronics
-- 📫 How to reach me: (pvt) hi@dattasaurabh.com 
+- 📫 How to reach me:
+  - (pvt) hi@dattasaurabh.com
+  - (work) datta@zigzag.is
 - 😄 Pronouns: he/him
 
 <!---
